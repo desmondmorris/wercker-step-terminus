@@ -1,0 +1,8 @@
+name: terminus
+version: 0.0.1
+description: "Installs Terminus, the Pantheon command line tool"
+type: build
+keywords:
+    - drupal
+    - terminus
+    - pantheon
