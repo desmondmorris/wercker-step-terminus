@@ -1,5 +1,5 @@
 name: terminus
-version: 0.0.1
+version: 0.0.2
 description: "Installs Terminus, the Pantheon command line tool"
 type: build
 keywords:
