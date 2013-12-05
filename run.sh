@@ -20,3 +20,5 @@ composer create-project pantheon-systems/terminus $HOME/.drush/terminus -s dev -
 drush cc drush
 
 drush pauth $WERCKER_TERMINUS_PANTHEON_EMAIL --password=$WERCKER_TERMINUS_PANTHEON_PASSWORD
+
+drush paliases
